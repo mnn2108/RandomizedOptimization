@@ -18,6 +18,7 @@ REQUIREMENTS:
 
 
 CODE DESCRIPTIONS:
+
       Source code is in:
       https://github.com/mnn2108/RandomizedOptimization
       The project was divided into 2 parts.
@@ -69,21 +70,25 @@ CODE DESCRIPTIONS:
 
 
 HOW TO RUN:
+
 To run Part 1 - Neural Network Weight Optimization: python main.py
 To run Part 2 - Analyzing Four Algorithm on the Three Problems: python main2.py
 
 
 DATASETS:
+
 I use the PhishingData.csv for the Part 1 of the project: Neural Network weight analysis.
 
 
 NOTES:
+
 I only show the source code, input file, and a README in this repository.
 All the output data and charts can be regenerate from the codes above.
 
 
 
 REFERENCE WEBSITES:
+
 -	https://www.cc.gatech.edu/~isbell/tutorials/mimic-tutorial.pdf
 -	https://mlrose.readthedocs.io/
 -	https://classroom.udacity.com/
