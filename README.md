@@ -1,11 +1,14 @@
 # RandomizedOptimization
 
 README.txt
+
 Author: MinhTrang (Mindy) Nguyen
+
 Date: Oct 11, 20202
 
 
 REQUIREMENTS:
+
     - pandas 1.0.5
     - numpy 1.17.0
     - sklearn 0.23.2
