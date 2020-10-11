@@ -77,7 +77,7 @@ To run Part 2 - Analyzing Four Algorithm on the Three Problems: python main2.py
 
 DATASETS:
 
-I use the PhishingData.csv for the Part 1 of the project: Neural Network weight analysis.
+I use the dataset_38_sick_cleanup.csv for the Part 1 of the project: Neural Network weight analysis.
 
 
 NOTES:
